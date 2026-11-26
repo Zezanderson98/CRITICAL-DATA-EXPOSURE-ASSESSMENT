@@ -314,8 +314,11 @@ Given the sensitivity of the recovered information and the potential business im
 
 ---
 
-**Pentester:** Your Name  
-**Client:** Mediroza General Hospital  
-**Assessment Type:** Black-Box Penetration Test  
-**Milestone:** M3 – Critical Data Exposure Assessment  
-**Finding ID:** MED-003
+**Next Phase** Milestone 4: A Detailed Penetration Testing Report
+
+
+
+## 👤 Author
+**Anderson Edaiyo Uzezi**  
+Cybersecurity Professional B084  
+LinkedIn: https://www.linkedin.com/in/anderson-edaiyo-bab74117b
