@@ -164,7 +164,8 @@ EMP-01
 
 
 
-![Uploading EMP-01.png…]()
+<img width="1363" height="768" alt="EMP-01" src="https://github.com/user-attachments/assets/2c76d0b8-4bea-4354-9204-ca62f6452a20" />
+
 
 
 
