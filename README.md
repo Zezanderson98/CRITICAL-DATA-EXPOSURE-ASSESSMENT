@@ -124,20 +124,50 @@ The exposed dataset contained detailed employee records including names, positio
 ### Sample Recovered Records
 
 | Employee | Position | Department | Annual Salary |
-|------------|------------|------------|------------|
-| Dr. Suresh Moodley | Consultant Radiologist | Radiology | $130,000 |
-| Dr. Vikram Chetty | Anaesthetist | Theatre | $135,000 |
-| Dr. Fatima Patel | Pediatrician | Pediatrics | $118,000 |
-| David Smith | Facilities Manager | Operations | $52,000 |
-| Nisha Singh | Physiotherapist | Rehabilitation | $48,000 |
-| Radebe | Radiographer | Radiology | $43,000 |
-| Deepak Pillay | Lab Technologist | Diagnostics Lab | $41,000 |
-| Peter van Wyk | Procurement Officer | Supply Chain | $38,000 |
-| Kavitha Govender | Lab Technician | Diagnostics Lab | $35,000 |
-| Karen O'Connor | Billing Administrator | Finance | $29,000 |
-| James Wilson | Security Supervisor | Operations | $27,000 |
-| Andile Mbeki | Ward Clerk | Administration | $21,000 |
-| Linda Fourie | Receptionist | Front Office | $19,000 |
+| :--- | :--- | :--- | :--- |
+| Dr. Rajesh Naidoo | Chief Pathologist | Diagnostics Lab | R 1,656,000 |
+| Sarah Botha | Chief Financial Officer | Finance | R 1,824,000 |
+| Dr. Johan van der Merwe | Medical Director | Management | R 1,920,000 |
+| Dr. Anita Naicker | Consultant Cardiologist | Cardiology | R 1,584,000 |
+| Dr. Ahmed Kara | Consultant Physician | Internal Medicine | R 1,536,000 |
+| Dr. Yusuf Cassim | Senior Registrar | Emergency & Trauma | R 888,000 |
+| Michael Roberts | HR Director | Human Resources | R 1,152,000 |
+| Susan Pretorius | HR Officer | Human Resources | R 384,000 |
+| Jameel Malik | IT Systems Administrator | IT | R 696,000 |
+| Thabo Molefe | Network Engineer | IT | R 552,000 |
+| Nomvula Khumalo | Registered Nurse | Emergency & Trauma | R 408,000 |
+| Lerato Mokoena | Registered Nurse | Pediatrics | R 396,000 |
+| Bongani Ndlovu | Registered Nurse | Cardiology | R 420,000 |
+| Zanele Mahlangu | Nursing Sister | Theatre | R 504,000 |
+| Kagiso Sithole | Pharmacist | Pharmacy | R 732,000 |
+| Naledi Zulu | Pharmacy Assistant | Pharmacy | R 312,000 |
+| Themba Nkosi | Radiographer | Radiology | R 528,000 |
+| Palesa Radebe | Radiographer | Radiology | R 516,000 |
+| Deepak Pillay | Lab Technologist | Diagnostics Lab | R 492,000 |
+| Kavitha Govender | Lab Technician | Diagnostics Lab | R 420,000 |
+| Dr. Suresh Moodley | Consultant Radiologist | Radiology | R 1,560,000 |
+| Dr. Fatima Patel | Pediatrician | Pediatrics | R 1,416,000 |
+| Nisha Singh | Physiotherapist | Rehabilitation | R 576,000 |
+| Dr. Vikram Chetty | Anaesthetist | Theatre | R 1,620,000 |
+| David Smith | Facilities Manager | Operations | R 624,000 |
+| Karen O'Connor | Billing Administrator | Finance | R 348,000 |
+| James Wilson | Security Supervisor | Operations | R 324,000 |
+| Linda Fourie | Receptionist | Front Office | R 228,000 |
+| Peter van Wyk | Procurement Officer | Supply Chain | R 456,000 |
+| Andile Mbeki | Ward Clerk | Administration | R 252,000 |
+
+# Evidence
+
+
+EMP-01
+
+
+
+
+
+
+
+
 
 
 ---
@@ -175,6 +205,16 @@ Further investigation revealed access to internal shareholder records detailing 
 | Naledi Zulu | 7.0% | 70,000 | Ordinary |
 | Michael Roberts | 6.0% | 60,000 | Ordinary |
 | Dr. Vikram Chetty | 4.0% | 40,000 | Preferential |
+
+# Evidence
+
+SHR-01
+<img width="1366" height="426" alt="SHR-01" src="https://github.com/user-attachments/assets/213dda1c-d4e9-47e6-9dd2-613bba144449" />
+
+
+
+
+
 
 
 ---
